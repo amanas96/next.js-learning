@@ -1,2 +1,3 @@
 # next.js-learning
-This is my next.js learning repository
+This is my next.js learning repository.
+
